@@ -1,0 +1,25 @@
+STL = Containers + Algo + Iterators
+
+1.Containers = Object which stores data.
+2.Algo = Procedure to process data.
+3.Interators = Object which point to an element of a Containers
+
+Containers = 1. Sequence Containers -> Linear Fashion
+vector,list,dequeve
+             2.Associative Containers -> Direct Access
+set/multiset,map/multimap
+             3.Derived Containers -> Real world Modelling
+stack (LIFO= LAST IN FIRST OUT ),queve(FIFO FIRST IN FIRST OUT),priority queve
+
+
+vector -> Random Access fast
+        > Middle Insertion / Del = Slow
+        > Insertion/Del at the end = fast
+
+list -> Random Access Slow
+      > Middle Insertion / Del = fast
+      > Insertion/Del at the end = fast
+
+Associative Containers -> ALl operation fast expect Random excess.
+
+Derived Containers -> Depends -> data structure.

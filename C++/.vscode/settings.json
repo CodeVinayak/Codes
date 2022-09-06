@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.dart": "dart",
+        "*.tsx": "typescriptreact",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "array": "cpp",
+        "string": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
